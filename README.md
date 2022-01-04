@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iprasad
-- 👀 I’m interested in Iot, Python developent & Data science
+- 👀 I’m interested in Python developent & Data science & Iot.
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
