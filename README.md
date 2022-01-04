@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iprasad
 - 👀 I’m interested in Python developent & Data science & Iot.
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/prasad-ingare-58a01849
 
 <!---
 iprasad1212/iprasad1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
