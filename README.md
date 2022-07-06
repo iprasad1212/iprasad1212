@@ -1,13 +1,10 @@
-![MasterHead](https://drive.google.com/file/d/1jidLB45ynPy8dBEthMwRzFBJXpfJKSxA/view)
-<h1 align="center">Hi 👋, I'm Prasad Ingare</h1>
+<h1 align="center">Hi 👋, I'm Prasad </h1>
 <h3 align="center"> </h3>
 
 
 - 📫 How to reach me **iprasad1212@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
